@@ -1,0 +1,11 @@
+香港#genre#
+cs,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg
+cs1,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg1
+cs2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg2
+cs3,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg3
+cs4,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg4
+cs5,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg5
+cs6,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg6
+cs7,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg7
+cs8,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg8
+cs9,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhxg9

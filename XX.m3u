@@ -1351,7 +1351,7 @@ http://192.168.0.124:7088/udp/239.77.0.76:5146
 http://192.168.0.124:7088/udp/239.77.1.80:5146
 #EXTINF:-1 tvg-name="兵团广电卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团广电卫视.png" group-title="📡卫视频道",兵团广电卫视
 http://192.168.0.124:7088/udp/239.77.0.77:5146
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="📡卫视频道",厦门卫视
 http://192.168.0.124:7088/udp/239.77.0.96:5146
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://192.168.0.124:7088/udp/239.253.43.113:5146
